@@ -1,10 +1,14 @@
 ## Multiple Network Node
 
 ## Hardware Requirements:
- RAM: 2 GB
- CPU: 1-2vCPU
- Storage: 200MB Disk Space
- Network: 100Mbps Internet Connection
+ 
+RAM: 2 GB
+ 
+CPU: 1-2vCPU
+ 
+Storage: 200MB Disk Space
+ 
+Network: 100Mbps Internet Connection
 
 ## Quick Installation
 ## Installation Steps

@@ -32,11 +32,13 @@ curl -fsSL https://raw.githubusercontent.com/stephenahmeed/Multiple-Node/refs/he
 
 After successful installation, you can use these commands:
 
-```bash
 # Check node status
+```bash
 multiple-cli status
+```
 
 # View all available commands
+```bash
 multiple-cli --help
 ```
 

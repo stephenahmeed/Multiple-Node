@@ -11,16 +11,13 @@ CYAN='\033[0;36m'
 print_banner() {
     clear
     echo -e "${CYAN}"
-    echo '███╗   ███╗██╗   ██╗██╗  ████████╗██╗██████╗ ██╗     ███████╗'
-    echo '████╗ ████║██║   ██║██║  ╚══██╔══╝██║██╔══██╗██║     ██╔════╝'
-    echo '██╔████╔██║██║   ██║██║     ██║   ██║██████╔╝██║     █████╗  '
-    echo '██║╚██╔╝██║██║   ██║██║     ██║   ██║██╔═══╝ ██║     ██╔══╝  '
-    echo '██║ ╚═╝ ██║╚██████╔╝███████╗██║   ██║██║     ███████╗███████╗'
-    echo '╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝   ╚═╝╚═╝     ╚══════╝╚══════╝'
+    echo '█▀▀ █▀▀█ █▀▀▄ █▀▀▄ ░▀░ █▀▀█   █░░█ █▀▀█ █▀▀ █▀▀ █▀▀█ ░▀░ █▀▀▄'
+    echo '▀▀█ █▄▄█ █▀▀▄ █▀▀▄ ▀█▀ █▄▄▀   █▀▀█ █░░█ ▀▀█ ▀▀█ █▄▄█ ▀█▀ █░░█'
+    echo '▀▀▀ ▀░░▀ ▀▀▀░ ▀▀▀░ ▀▀▀ ▀░▀▀   ▀░░▀ ▀▀▀▀ ▀▀▀ ▀▀▀ ▀░░▀ ▀▀▀ ▀░░▀'
     echo -e "${NC}"
     echo -e "${GREEN}================================================${NC}"
-    echo -e "         Multiple Node Auto Installer Script"
-    echo -e "${YELLOW}        Author: https://github.com/Galkurta${NC}"
+    echo -e "         Sabbir Hossain | Airdrop"
+    echo -e "${YELLOW}        TG:https://t.me/sabbirofficialairdrop${NC}"
     echo -e "${GREEN}================================================${NC}"
     echo ""
 }
@@ -135,7 +132,7 @@ echo -e "${YELLOW}Node log saved in: output.log${NC}"
 
 # Add donation info
 echo -e "${CYAN}================================================"
-echo "If you find this script helpful, you can support me at:"
-echo "GitHub: https://github.com/Galkurta"
-echo "Telegram: https://t.me/galkurtarchive"
+echo "Join My Airdrop Channel For Upcoming Update:"
+echo "X: https://x.com/0xSabie"
+echo "TG: https://t.me/sabbirofficialairdrop"
 echo "$================================================${NC}"

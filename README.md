@@ -12,15 +12,6 @@
 1. First, register for Multiple Node at [Multiple Registration](https://www.app.multiple.cc/#/signup?inviteCode=vscB8nVr)
 2. After registration, get your identification code from [Setup Page](https://www.app.multiple.cc/#/setup)
 3. Run the installation script   
-You can quickly install Multiple Node using either `wget` or `curl`:
-
-Using wget:
-
-```bash
-wget https://raw.githubusercontent.com/stephenahmeed/Multiple-Node/refs/heads/main/multiple.sh && chmod +x multiple.sh && sudo ./multiple.sh
-```
-
-Using curl:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/stephenahmeed/Multiple-Node/refs/heads/main/multiple.sh -o multiple.sh && chmod +x multiple.sh && sudo ./multiple.sh
